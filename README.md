@@ -1,3 +1,3 @@
 # EndlessWaltz
 GLSL/WebGL Art Project
-![alt text](http://player.thebookofshaders.com/?log=180220044637 "Logo Title Text 1")
+![alt text](https://media.giphy.com/media/61Z7SCk4am19S0IelC/giphy.gif "Logo Title Text 1")
